@@ -1,0 +1,12 @@
+D:\StegoCrypto\StegoCrypto\bin\Debug\StegoCrypto.exe.config
+D:\StegoCrypto\StegoCrypto\bin\Debug\StegoCrypto.exe
+D:\StegoCrypto\StegoCrypto\bin\Debug\StegoCrypto.pdb
+D:\StegoCrypto\StegoCrypto\obj\Debug\StegoCrypto.Form_Menu.resources
+D:\StegoCrypto\StegoCrypto\obj\Debug\StegoCrypto.Properties.Resources.resources
+D:\StegoCrypto\StegoCrypto\obj\Debug\StegoCrypto.csproj.GenerateResource.cache
+D:\StegoCrypto\StegoCrypto\obj\Debug\StegoCrypto.csproj.CoreCompileInputs.cache
+D:\StegoCrypto\StegoCrypto\obj\Debug\StegoCrypto.exe
+D:\StegoCrypto\StegoCrypto\obj\Debug\StegoCrypto.pdb
+D:\StegoCrypto\StegoCrypto\obj\Debug\StegoCrypto.Form_LSB_MRC4.resources
+D:\StegoCrypto\StegoCrypto\obj\Debug\StegoCrypto.csprojAssemblyReference.cache
+D:\StegoCrypto\StegoCrypto\obj\Debug\StegoCrypto.Form_LSBMR_MRC4.resources

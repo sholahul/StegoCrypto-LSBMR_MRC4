@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StegoCrypto", "StegoCrypto\StegoCrypto.csproj", "{C53CFB4E-26E4-4A25-8F12-76FFD22BC1AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C53CFB4E-26E4-4A25-8F12-76FFD22BC1AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C53CFB4E-26E4-4A25-8F12-76FFD22BC1AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C53CFB4E-26E4-4A25-8F12-76FFD22BC1AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C53CFB4E-26E4-4A25-8F12-76FFD22BC1AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00710921-E2E0-4EBE-9337-FD4AFEBBAED1}
+	EndGlobalSection
+EndGlobal
